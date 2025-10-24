@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[[https://raw.githubusercontent.com/amymarlene/amymarlene/main/banner-amy.png](https://github.com/amymarlene/amymarlene/blob/main/perfil.png?raw=true)](https://github.com/amymarlene/amymarlene/blob/main/perfil.png?raw=true)" alt="Banner Amy Marlene" width="100%" />
+  <img src="https://github.com/amymarlene/amymarlene/blob/main/perfil.png?raw=true" alt="Banner Amy Marlene" width="100%" />
 </p>
 
 <p align="center">
@@ -33,31 +33,3 @@
 🧠 Machine Learning & Análisis de Datos
 🌐 HTML5 • CSS3 • Jupyter Notebook
 📊 Visualización de datos con Seaborn y Plotly
-🎀 Mis hobbies e intereses
-💞 Me encanta aprender cosas nuevas y disfrutar del proceso creativo.
-🌼 Algunos de mis intereses son:
-
-📚 Leer sobre biotecnología e inteligencia artificial aplicada a la salud
-
-🎶 Escuchar música y descubrir nuevos artistas
-
-🌸 Diseñar interfaces y portafolios con estilo minimalista y colores suaves
-
-☕ Tomar café mientras programo
-
-🧘‍♀️ Cuidar mi bienestar físico y mental
-
-🌼 Proyectos destacados
-📊 Tarea 2 - Análisis de datos: Clasificación Binaria
-➡️ Análisis de estilos y patrones de sueño mediante técnicas de clasificación binaria.
-
-🖥️ Portafolio Personal
-➡️ Sitio web con diseño HTML5 + CSS3, donde presento mis proyectos y habilidades.
-
-💫 Mis estadísticas
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amymarlene&show_icons=true&theme=rose_pine&title_color=ffb6c1&icon_color=ff69b4&text_color=f5e6eb&bg_color=282a36" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amymarlene&layout=compact&theme=rose_pine&title_color=ffb6c1&text_color=f5e6eb&bg_color=282a36" width="48%" /> </p>
-🌸 Contacto
-📧 amymarlene@example.com
-💬 Siempre abierta a aprender, colaborar y compartir conocimiento.
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=100&section=footer" /> </p> ```
