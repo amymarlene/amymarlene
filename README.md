@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/amymarlene/amymarlene/blob/main/perfil.png?raw=true" 
        alt="Banner Amy Marlene" 
-       width="80%" 
+       width="60%" 
        style="border-radius: 20px; box-shadow: 0px 0px 10px #ffb6c1;" />
 </p>
 
