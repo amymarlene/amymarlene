@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="https://github.com/amymarlene/amymarlene/blob/main/perfil.png?raw=true" alt="Banner Amy Marlene" width="100%" />
+  <img src="https://github.com/amymarlene/amymarlene/blob/main/perfil.png?raw=true" 
+       alt="Banner Amy Marlene" 
+       width="80%" 
+       style="border-radius: 20px; box-shadow: 0px 0px 10px #ffb6c1;" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=100&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=80&section=header" />
 </p>
 
 <h2 align="center" style="color:#ff69b4;">💖 ¡Hola, soy Amy Marlene! 💖</h2>
