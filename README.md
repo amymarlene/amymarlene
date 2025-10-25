@@ -24,8 +24,8 @@
 
 💗 **Amy Frias**  
 🎓 Estudiante de **Ingeniería Biomédica**  
-💡 Interesada en el **análisis de datos**, la **tecnología médica** y el **desarrollo web**.  
-🌸 Me encanta combinar la ciencia con la programación para crear soluciones innovadoras.  
+💡 Interesada en la **tecnología médica** y el **desarrollo web**.  
+🌸 Aprendo a combinar la ciencia con la programación para crear soluciones innovadoras.  
 
 ---
 
